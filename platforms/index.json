@@ -226,6 +226,13 @@
       "revisionNumber": 1
     },
     {
+      "filename": "Epic.json",
+      "platformName": "Epic",
+      "platformShortname": "epic",
+      "platformUniqueId": "epic",
+      "revisionNumber": 1
+    },
+    {
       "filename": "FairchildChannelF.json",
       "platformName": "Fairchild Channel F",
       "platformShortname": "channelf",
@@ -245,6 +252,13 @@
       "platformShortname": "flashback",
       "platformUniqueId": "flashback",
       "revisionNumber": 3
+    },
+    {
+      "filename": "GOG.json",
+      "platformName": "GOG",
+      "platformShortname": "gog",
+      "platformUniqueId": "gog",
+      "revisionNumber": 1
     },
     {
       "filename": "IdTech4A.json",
