@@ -1,5 +1,5 @@
 {
-  "baseUri": "https://raw.githubusercontent.com/likeich/console-launcher/main/platforms/",
+  "baseUri": "https://raw.githubusercontent.com/GumbyXGames/console-launcher-custom-platforms/main/platforms/",
   "platformList": [
     {
       "filename": "3DO.json",
