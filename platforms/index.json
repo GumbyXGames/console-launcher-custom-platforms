@@ -9,6 +9,13 @@
       "revisionNumber": 8
     },
     {
+      "filename": "AmazonGames.json",
+      "platformName": "Amazon Luna",
+      "platformShortname": "amazon",
+      "platformUniqueId": "amazon",
+      "revisionNumber": 1
+    },
+    {
       "filename": "AmstradCPC.json",
       "platformName": "Amstrad CPC",
       "platformShortname": "cpc",
